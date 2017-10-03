@@ -67,7 +67,7 @@ class Circle {
 	}
 }
 
-var C = {x: 675, y: 350, r: 300}
+var C = {x: 650, y: 350, r: 300}
 var colors = ['#FC2D79', '#c1c1c1', '#4A90E2', '#FCB635']
 var container = document.querySelector('.container')
 var dist = 100

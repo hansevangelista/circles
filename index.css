@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+.container {
+  width: 3000px;
+  height: 3000px;
+  background: #28143f;
+  position: relative;
+}
+.point {
+  position: absolute;
+  height: 4px;
+  width: 4px;
+  border-radius: 50%;
+}
